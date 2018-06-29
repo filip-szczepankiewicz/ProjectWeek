@@ -5,7 +5,7 @@ Back to [Projects List](../../README.md#ProjectsList)
 
 - Filip Szczepankiewicz (BWH, HMS)
 - Carl-Fredrik Westin (BWH, HMS)
-- Isaiah Norton
+- Isaiah Norton (BWH, HMS)
 
 
 # Project Description
@@ -36,6 +36,11 @@ In doing so, we also need to store new kinds of experimental information to supp
 ## Progress and Next Steps
 
 Objective 1 was prepared during Hackathon in Sweden by Isaiah Norton, and is almost complete.
+Objective 2 was skipped and replaced due to technical limitations, and replaced by loading the low resolution "original" waveform.
+Objective 3 is partially finished, and will be continuously updated when new parameters can be defined.
+Objective 4 is completed. Simulations shows perfect reproduction of waveform after transform.
+Objective 5 and 7 will be completed using hardware in Boston.
+Objective 6 is largely completed, but must be validated, packaged and published.
 
 Next step: 
 Introduce C-code into pulse sequence, and test compilation conflicts. 
